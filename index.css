@@ -46,9 +46,8 @@ img {
     height: 4rem;
 }
 
-.location {
+h4 {
     color: hsl(75, 94%, 57%);
-    font-weight: bold;
 }
 
 .about {
