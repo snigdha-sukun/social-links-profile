@@ -44,7 +44,7 @@ Users should be able to:
 
 I learned that `align-items` & `justify-content` only work for `display: flex`
 
-I learned to use `rem` for sizing instead of `5` everywhere.
+I learned to use `rem` for sizing instead of `%` everywhere.
 
 I learned that `padding` also helps with getting the required size.
 
